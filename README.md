@@ -1,4 +1,12 @@
-## Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-omerfaunal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omerfaunal/)](https://www.linkedin.com/in/omerfaunal/)  [![GitHub followers](https://img.shields.io/github/followers/omerfaunal?label=Follow&style=social)](https://github.com/omerfaunal/?tab=follow)
+[![Gmail Badge](https://img.shields.io/badge/-omerfaunal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omerfaunal@gmail.com)](mailto:omerfaunal@gmail.com)
+
+AI Engineer @ Workmate Labs</a>. 
+<br>Previously Software Engineer @ <a href="https://www.inventanalytics.com/"> Invent Analytics</a><br> 
+
+Computer Engineering Graduate from <a href="https://bogazici.edu.tr/en-US/Index"> Bogazici University.
+
+![](https://komarev.com/ghpvc/?username=omerfaunal)
 
 <!--
 **omerfaunal/omerfaunal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
