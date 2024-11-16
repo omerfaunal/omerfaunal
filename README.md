@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-omerfaunal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omerfaunal@gmail.com)](mailto:omerfaunal@gmail.com)
 
 AI Engineer @ Workmate Labs</a>. 
-<br>Previously Software Engineer @ <a href="https://www.inventanalytics.com/"> Invent Analytics</a><br> 
+<br>Previously Software Engineer <a href="https://www.inventanalytics.com/"> @ Invent Analytics</a><br> 
 
 Computer Engineering Graduate from <a href="https://bogazici.edu.tr/en-US/Index"> Bogazici University.
 
