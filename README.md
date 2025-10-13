@@ -4,7 +4,7 @@
 AI Engineer <a href="https://www.workmate.com/"> @ Workmate Labs</a><br>  
 <br>Previously Software Engineer <a href="https://www.inventanalytics.com/"> @ Invent Analytics</a><br> 
 
-Computer Engineering Graduate from <a href="https://bogazici.edu.tr/en-US/Index"> Bogazici University.
+Computer Engineering Graduate from <a href="https://bogazici.edu.tr/en-US/Index"> Bogazici University and <a href="https://cam.ac.uk"> University of Cambridge.
 
 ![](https://komarev.com/ghpvc/?username=omerfaunal)
 
